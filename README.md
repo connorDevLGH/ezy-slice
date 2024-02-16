@@ -11,7 +11,7 @@
 
 
 
-참고 튜토리얼 링크 : https://www.youtube.com/watch?v=GQzW6ZJFQ94
+**참고 튜토리얼 링크** : https://www.youtube.com/watch?v=GQzW6ZJFQ94
 
 
 #### Open Source Slicer Framework for the Unity3D Game Engine
