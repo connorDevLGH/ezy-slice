@@ -9,6 +9,11 @@
 
 * * *
 
+
+
+참고 튜토리얼 링크 : https://www.youtube.com/watch?v=GQzW6ZJFQ94
+
+
 #### Open Source Slicer Framework for the Unity3D Game Engine
 
 -   Ability to slice any convex Mesh using a Plane
@@ -168,5 +173,3 @@ public TextureRegion CalculateCustomRegion(Material myMaterial, int px, int py, 
 	return myMaterial.GetTextureRegion(px, py, width, height);
 }
 ```
-
-참고 튜토리얼 링크 : https://www.youtube.com/watch?v=GQzW6ZJFQ94
